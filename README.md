@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/madhura-mane-938b3a33a">
+  <a href="https://www.linkedin.com/in/madhuramane1">
     LinkedIn
   </a>
   &nbsp;·&nbsp;
@@ -13,7 +13,7 @@
     Email
   </a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/madhuramane-1337">
+  <a href="https://github.com/madhuraammane">
     GitHub
   </a>
 </p>
@@ -78,7 +78,7 @@ A full-stack college notice management application designed to make sharing and 
 * SQLite database integration
 * Responsive interface
 
-[View Repository](https://github.com/madhuramane-1337/college-notice-board-django)
+[View Repository](https://github.com/madhuraammane/college-notice-board-django)
 
 ---
 
@@ -95,7 +95,7 @@ A responsive personal portfolio website built to showcase projects, technical sk
 * Interactive components
 * Mobile-friendly layout
 
-[View Repository](https://github.com/madhuramane-1337/Portfolio-UI)
+[View Repository](https://github.com/madhuraammane/Portfolio-UI)
 
 ---
 
@@ -112,7 +112,7 @@ A responsive restaurant website focused on clean UI, menu presentation and an in
 * Menu presentation
 * Modern visual design
 
-[View Repository](https://github.com/madhuramane-1337/Restaurant-Webpage)
+[View Repository](https://github.com/madhuraammane/Restaurant-Webpage)
 
 ---
 
@@ -147,7 +147,7 @@ Future Focus
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madhuramane-1337&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=madhuraammane&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -155,7 +155,7 @@ Future Focus
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/madhura-mane-938b3a33a">
+  <a href="https://www.linkedin.com/in/madhuramane1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:madhuramane2006@gmail.com">
